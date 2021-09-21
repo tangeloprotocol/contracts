@@ -18,7 +18,7 @@
 
 # TODO
 - Clarify when vaultBalance and vaultBalanceAvailable should be adjusted. 
-
+- Add more tests
 
 # Built with  🏗 Scaffold-ETH
 
