@@ -10,13 +10,14 @@
 
 # Open questions
 
-• Currently a vault manager will need to call whitelistCollection to change a parameter like the lending price for an NFT collection. Is the current setup gas inefficient?
-• What vectors for abuse am I not thinking about? 
-• Can large whale deposits be used to take gains and subsequantly remove liquidity and abuse the system?
-• Can re-entrancy attacks be used in takeLoan or withdrawFunds?
+- Currently a vault manager will need to call whitelistCollection to change a parameter like the lending price for an NFT collection. Is the current setup gas inefficient?
+- What vectors for abuse am I not thinking about? 
+- Can large whale deposits be used to take gains and subsequantly remove liquidity and abuse the system?
+- Can re-entrancy attacks be used in takeLoan or withdrawFunds?
+
+
 # TODO
-• Keep 10% of the vault liquid at all times for withdraws
-• Clarify when vaultBalance and vaultBalanceAvailable should be adjusted. 
+- Clarify when vaultBalance and vaultBalanceAvailable should be adjusted. 
 
 
 # Built with  🏗 Scaffold-ETH
